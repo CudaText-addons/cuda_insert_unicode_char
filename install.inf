@@ -1,0 +1,10 @@
+[info]
+title=Insert Unicode Char
+desc=Inserts Unicode char after entering its hex code
+type=cudatext-plugin
+subdir=cuda_insert_char
+
+[item1]
+section=commands
+caption=Insert Unicode char
+method=run
